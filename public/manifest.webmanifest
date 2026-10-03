@@ -1,0 +1,17 @@
+{
+  "name": "AgentForge by Reachmark",
+  "short_name": "AgentForge",
+  "description": "Controlled AI agent orchestration for Web3 operations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080B0A",
+  "theme_color": "#080B0A",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
